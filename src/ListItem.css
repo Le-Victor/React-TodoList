@@ -1,0 +1,23 @@
+.true { 
+    color: black;
+    width: 400px;             							  /*div宽600px*/
+    height: 10px;             							  /*div高600px*/
+    background: rgb(68, 128, 0);        			    /*背景颜色*/
+    border: 1px solid black;  						/*边框线宽 实线 颜色*/
+    margin: 50px;              							  /*外边距*/
+    padding: 20px;            							  /*内边距*/
+    display: center;                                      /*居中*/
+    margin: 0 auto;                                       /*外边距自适应*/
+}
+
+.false {
+    color: black;
+    width: 400px;
+    height: 10px;
+    background: rgb(255, 60, 0);
+    border: 1px solid black;
+    margin: 50px;
+    padding: 20px;
+    display: center; 
+    margin: 0 auto;
+}
